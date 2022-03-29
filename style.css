@@ -1,0 +1,53 @@
+body{
+   background-color: green;
+}
+
+.background{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-1{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 15px;
+    height: 450px;
+    width: 300px;
+    background-color: white;
+}
+
+.div-2{
+    display: flex;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.div-3{
+    margin-top: 150px;
+    justify-content: center;
+}
+
+.div-4{
+    display: flex;
+    margin-top: 140px;
+    transform:rotate(180deg);
+    margin-right: 15px;
+}
+
+.logo-1{
+    font-size: 50px;
+    color: red;
+}
+
+.logo-2{
+    font-size: 50px;
+}
+
+.logo-3{
+    font-size: 50px;
+}
+
